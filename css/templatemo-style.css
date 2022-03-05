@@ -20,15 +20,12 @@ Home section width: 420
 
 */
 
-#about-me {
-  display: flex;
-  justify-content: center;
-}
 
 #button-box {
   display: flex;
   align-content: center;
   justify-content: center;
+  flex-wrap: wrap;
 
 }
 
