@@ -19,6 +19,10 @@ Logo size: 400x200
 Home section width: 420
 
 */
+#logo{
+display: flex;
+justify-content: center;
+}
 
 .button-style {
   display: flex;
