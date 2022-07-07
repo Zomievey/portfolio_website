@@ -20,6 +20,17 @@ Home section width: 420
 
 */
 
+.button-style {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+#box {
+  width: 400px;
+  height: 525px;
+}
+
 
 #button-box {
   display: flex;
